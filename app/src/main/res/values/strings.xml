@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Love</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ga_tracker">UA-59627258-1</string>
+    <string name="next_button">Next</string>
+    <string name="skip_button">Skip</string>
+    <string name="enter">Enter</string>
+    <string name="finish">Finish</string>
+    <string name="share">Share via</string>
+    <string name="share_text">Share</string>
+    <string name="feedback">Feedback</string>
+    <string name="thanks_text">Thanks for taking the game with your partner!</string>
+    <string name="info_text">This test is based on a research paper by Arthur Aron on identifying experimental generation of interpersonal closeness.</string>
+    <string name="title_activity_tutorial">TutorialActivity</string>
+
+    <string name="question1">We believe that\nthe best way for you\nto get close to your partner is\nfor you to share with them\nand\nfor them to share\nwith you!</string>
+    <string name="question2">In order to help you\nto get close to your partner\nwe\'ve made an effort to engage the two of you in a kind of\nLOVE sharing game.</string>
+    <string name="question3">You will be sharing time\n for about an hour.\nThere is no fixed time.\nTake plenty of time\nbefore answering\neach questions.</string>
+    <string name="question4">Read out questions\nalternatively with your partner,\nwhoever reads the question\nwill answer the question\nor do the task first.</string>
+    <string name="question5">There are 3 sets of 12 questions each.\nNow\nshall we\nbegin the game?</string>
+
+    <string name="title_activity_love">LoveActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <!-- Set I questions -->
+    <string name="love1">Given the choice of anyone in the world, whom would you want as a dinner guest?</string>
+    <string name="love2">Would you like to be famous? In what way?</string>
+    <string name="love3">Before making a telephone call, do you ever rehearse what you are going to say? Why?</string>
+    <string name="love4">What would constitute a “perfect” day for you?</string>
+    <string name="love5">When did you last sing to yourself? To someone else?</string>
+    <string name="love6">If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?</string>
+    <string name="love7">Do you have a secret hunch about how you will die?</string>
+    <string name="love8">Name three things you and your partner appear to have in common.</string>
+    <string name="love9">For what in your life do you feel most grateful?</string>
+    <string name="love10">If you could change anything about the way you were raised, what would it be?</string>
+    <string name="love11">Take four minutes and tell your partner your life story in as much detail as possible.</string>
+    <string name="love12">If you could wake up tomorrow having gained any one quality or ability, what would it be?</string>
+
+    <!-- Set II questions -->
+    <string name="set2">Thanks\nfor taking up\nSet - I questions.\nLets start with Set - II questions</string>
+    <string name="love13">If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?</string>
+    <string name="love14">Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?</string>
+    <string name="love15">What is the greatest accomplishment of your life?</string>
+    <string name="love16">What do you value most in a friendship?</string>
+    <string name="love17">What is your most treasured memory?</string>
+    <string name="love18">What is your most terrible memory?</string>
+    <string name="love19">If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?</string>
+    <string name="love20">What does friendship mean to you?</string>
+    <string name="love21">What roles do love and affection play in your life?</string>
+    <string name="love22">Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.</string>
+    <string name="love23">How close and warm is your family? Do you feel your childhood was happier than most other people’s?</string>
+    <string name="love24">How do you feel about your relationship with your mother?</string>
+
+    <!-- Set III questions -->
+    <string name="set3">Thanks\nfor taking up\nSet - II questions.\nLets start with Set - III questions</string>
+    <string name="love25">Make three true “we” statements each. For instance, “We are both in this room feeling ... “</string>
+    <string name="love26">Complete this sentence: “I wish I had someone with whom I could share ... “</string>
+    <string name="love27">If you were going to become a close friend with your partner, please share what would be important for him or her to know.</string>
+    <string name="love28">Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</string>
+    <string name="love29">Share with your partner an embarrassing moment in your life.</string>
+    <string name="love30">When did you last cry in front of another person? By yourself?</string>
+    <string name="love31">Tell your partner something that you like about them already.</string>
+    <string name="love32">What, if anything, is too serious to be joked about?</string>
+    <string name="love33">If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?</string>
+    <string name="love34">Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?</string>
+    <string name="love35">Of all the people in your family, whose death would you find most disturbing? Why?</string>
+    <string name="love36">Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.</string>
+    <string name="title_activity_final">FinalActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+
+    //Settings screen
+    <string name="version">Version</string>
+    <string name="music">Music</string>
+    <string name="volume">Volume</string>
+    <string name="logout">Logout</string>
+    <string name="terms">Terms and Conditions</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="on_web">We are on web too!</string>
+
+
+</resources>

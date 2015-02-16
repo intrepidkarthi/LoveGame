@@ -1,0 +1,60 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="app_green">#4CAF50</color>
+    <color name="app_yellow">#FFEB3B</color>
+    <color name="app_light_green">#8BC34A</color>
+    <color name="app_light_blue">#03A9F4</color>
+    <color name="app_cyan">#00BCD4</color>
+    <color name="app_teal">#009688</color>
+    <color name="app_purple">#9C27B0</color>
+    <color name="app_deep_purple">#673AB7</color>
+    <color name="app_indigo">#3F51B5</color>
+    <color name="app_blue">#2196F3</color>
+    <color name="app_pink">#E91E63</color>
+    <color name="app_red">#F44336</color>
+    <color name="app_orange">#FF9800</color>
+    <color name="app_deep_orange">#FF5722</color>
+    <color name="app_brown">#795548</color>
+    <color name="app_grey">#9E9E9E</color>
+    <color name="app_blue_grey">#607D8B</color>
+
+
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow">#10000000</color>
+    <color name="window_background">#00000000</color>
+    <color name="photo_tint">#88101010</color>
+    <color name="timestamp">#a0a3a7</color>
+
+    <!--
+       Check Android Theme colors for color reference:
+       https://developer.android.com/training/material/images/ThemeColors.png
+
+       Refer also to Color palette for the UI colors you should use:
+       http://www.google.com/design/spec/style/color.html#color-ui-color-palette
+   -->
+
+    <color name="myPrimaryColor">#3F51B5</color>
+    <color name="myPrimaryDarkColor">#3F51B5</color>
+    <color name="myAccentColor">#3F51B5</color>
+    <color name="myDrawerBackground">#F2F2F2</color>
+    <color name="myWindowBackground">#DEDEDE</color>
+    <color name="myTextPrimaryColor">#FFFFFF</color>
+    <color name="myNavigationColor">#000000</color>
+    <color name="selected_gray">#ffdbdbdb</color>
+
+
+
+
+
+    <color name="primary">#dddc1b</color>
+    <color name="primary_dark">#AFB42B</color>
+    <color name="primary_light">#F0F4C3</color>
+    <color name="accent">#8BC34A</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#212121</color>
+    <color name="divider">#B6B6B6</color>
+
+
+</resources>
